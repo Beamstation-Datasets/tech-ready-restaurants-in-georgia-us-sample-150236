@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Georgia, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `150236` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 183 records |
-| Free sample size | 18 records (9.84%) |
-| Last export | 2026-04-08T06:51:11.929902+00:00 |
+| Full dataset size | 107 records |
+| Free sample size | 10 records (9.35%) |
+| Last export | 2026-04-15T10:20:12.194439+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-georgia-us-sample-150236/releases/download/sample-latest/beamstation_150236_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
