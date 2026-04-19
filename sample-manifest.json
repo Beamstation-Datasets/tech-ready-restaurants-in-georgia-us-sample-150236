@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a265802b-f79a-4a64-b37a-abb799939c3b",
+  "export_job_id": "c8da31ff-36b4-4ca5-bb30-164d4f3a9b2f",
   "id_short": 150236,
-  "published_at": "2026-04-10T19:16:49Z",
+  "published_at": "2026-04-19T07:22:41Z",
   "repo_name": "tech-ready-restaurants-in-georgia-us-sample-150236",
   "sample_asset_name": "beamstation_150236_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/150236/beamstation_150236_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "5bef5b150e8ae4e11545efaf120ae1f3717a86bbf2443d1d5f09741d6190d59c",
-  "sample_size_bytes": 83419,
-  "total_records": 183
+  "sample_records": 10,
+  "sample_sha256": "e83f92e6c976117d3e078bda2650b98d7a6ca57b1999f016957645845be19120",
+  "sample_size_bytes": 53218,
+  "total_records": 107
 }
